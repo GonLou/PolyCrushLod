@@ -1,0 +1,28 @@
+{
+  "name": "polycrushlod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "express": "^4.16.3",
+    "express-fileupload": "^0.4.0",
+    "formidable": "^1.2.1",
+    "serve-static": "^1.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosleepfilipe/PolyCrushLod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nosleepfilipe/PolyCrushLod/issues"
+  },
+  "homepage": "https://github.com/nosleepfilipe/PolyCrushLod#readme"
+}
