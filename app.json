@@ -1,0 +1,11 @@
+{
+  "name": "Poly Crush L.O.D.",
+  "description": "This app crushes polygons like a boss.",
+  "keywords": [
+    "node",
+    "HTML5",
+    "polygon"
+  ],
+  "website": "https://sheltered-bayou-28788.herokuapp.com",
+  "repository": "https://github.com/GonLou/PolyCrushLod"
+  }
